@@ -1,0 +1,1001 @@
+feedback_id,customer_id,feedback_text,sentiment
+F0001,C1062,Hospital network information was confusing.,Negative
+F0002,C1396,Customer service answered my questions clearly.,Positive
+F0003,C0692,Policy exclusions were unclear and the claim was rejected.,Negative
+F0004,C0119,Very satisfied with the policy coverage and easy claim process.,Positive
+F0005,C0837,Claim was settled quickly and the support team was helpful.,Positive
+F0006,C0442,I contacted the branch to update my address.,Neutral
+F0007,C0559,My claim was delayed and customer support did not respond.,Negative
+F0008,C0080,Premium increased and the service was disappointing.,Negative
+F0009,C0275,I contacted the branch to update my address.,Neutral
+F0010,C0785,Policy exclusions were unclear and the claim was rejected.,Negative
+F0011,C0734,Reimbursement took too long and communication was poor.,Negative
+F0012,C0061,Hospital network information was confusing.,Negative
+F0013,C0467,I submitted the required claim documents.,Neutral
+F0014,C0225,Claim was settled quickly and the support team was helpful.,Positive
+F0015,C1216,Reimbursement took too long and communication was poor.,Negative
+F0016,C0859,Policy exclusions were unclear and the claim was rejected.,Negative
+F0017,C1159,My claim was delayed and customer support did not respond.,Negative
+F0018,C0294,Claim was settled quickly and the support team was helpful.,Positive
+F0019,C0488,Cashless hospital service was smooth and convenient.,Positive
+F0020,C1363,Claim was settled quickly and the support team was helpful.,Positive
+F0021,C1014,Policy exclusions were unclear and the claim was rejected.,Negative
+F0022,C0180,Very satisfied with the policy coverage and easy claim process.,Positive
+F0023,C0801,Cashless hospital service was smooth and convenient.,Positive
+F0024,C0774,Very satisfied with the policy coverage and easy claim process.,Positive
+F0025,C0184,Very satisfied with the policy coverage and easy claim process.,Positive
+F0026,C0931,Very satisfied with the policy coverage and easy claim process.,Positive
+F0027,C0136,Claim was settled quickly and the support team was helpful.,Positive
+F0028,C0371,The renewal date is next month.,Neutral
+F0029,C0841,Customer service answered my questions clearly.,Positive
+F0030,C0024,Cashless hospital service was smooth and convenient.,Positive
+F0031,C0779,Customer service answered my questions clearly.,Positive
+F0032,C0755,I received my policy document by email.,Neutral
+F0033,C1174,Cashless hospital service was smooth and convenient.,Positive
+F0034,C0721,The renewal date is next month.,Neutral
+F0035,C0378,My claim was delayed and customer support did not respond.,Negative
+F0036,C1290,Policy exclusions were unclear and the claim was rejected.,Negative
+F0037,C0201,My claim was delayed and customer support did not respond.,Negative
+F0038,C0041,Policy exclusions were unclear and the claim was rejected.,Negative
+F0039,C0932,Hospital network information was confusing.,Negative
+F0040,C0294,I submitted the required claim documents.,Neutral
+F0041,C1100,Hospital network information was confusing.,Negative
+F0042,C0118,Premium is reasonable and the benefits are excellent.,Positive
+F0043,C0438,Premium increased and the service was disappointing.,Negative
+F0044,C0880,Hospital network information was confusing.,Negative
+F0045,C0127,I submitted the required claim documents.,Neutral
+F0046,C0526,Policy exclusions were unclear and the claim was rejected.,Negative
+F0047,C0038,The policy includes hospital coverage details.,Neutral
+F0048,C0895,Premium increased and the service was disappointing.,Negative
+F0049,C1265,Hospital network information was confusing.,Negative
+F0050,C1083,Reimbursement took too long and communication was poor.,Negative
+F0051,C0962,I contacted the branch to update my address.,Neutral
+F0052,C0978,Customer service answered my questions clearly.,Positive
+F0053,C0736,Premium increased and the service was disappointing.,Negative
+F0054,C1100,I received my policy document by email.,Neutral
+F0055,C0231,Premium is reasonable and the benefits are excellent.,Positive
+F0056,C0552,I contacted the branch to update my address.,Neutral
+F0057,C0077,Customer service answered my questions clearly.,Positive
+F0058,C0296,Premium increased and the service was disappointing.,Negative
+F0059,C0561,Very satisfied with the policy coverage and easy claim process.,Positive
+F0060,C0525,Hospital network information was confusing.,Negative
+F0061,C0148,Policy exclusions were unclear and the claim was rejected.,Negative
+F0062,C0978,Very satisfied with the policy coverage and easy claim process.,Positive
+F0063,C1273,The renewal date is next month.,Neutral
+F0064,C1144,Premium increased and the service was disappointing.,Negative
+F0065,C1053,The renewal date is next month.,Neutral
+F0066,C0806,Reimbursement took too long and communication was poor.,Negative
+F0067,C0442,Customer service answered my questions clearly.,Positive
+F0068,C0360,Premium is reasonable and the benefits are excellent.,Positive
+F0069,C0729,My claim was delayed and customer support did not respond.,Negative
+F0070,C0716,The policy includes hospital coverage details.,Neutral
+F0071,C0809,Policy exclusions were unclear and the claim was rejected.,Negative
+F0072,C0417,Cashless hospital service was smooth and convenient.,Positive
+F0073,C0843,Reimbursement took too long and communication was poor.,Negative
+F0074,C0394,Cashless hospital service was smooth and convenient.,Positive
+F0075,C0829,Cashless hospital service was smooth and convenient.,Positive
+F0076,C1076,Very satisfied with the policy coverage and easy claim process.,Positive
+F0077,C0441,Cashless hospital service was smooth and convenient.,Positive
+F0078,C1007,Cashless hospital service was smooth and convenient.,Positive
+F0079,C0037,Customer service answered my questions clearly.,Positive
+F0080,C0568,My claim was delayed and customer support did not respond.,Negative
+F0081,C0648,Very satisfied with the policy coverage and easy claim process.,Positive
+F0082,C0519,Reimbursement took too long and communication was poor.,Negative
+F0083,C0988,Cashless hospital service was smooth and convenient.,Positive
+F0084,C0507,Hospital network information was confusing.,Negative
+F0085,C1113,Reimbursement took too long and communication was poor.,Negative
+F0086,C0691,Reimbursement took too long and communication was poor.,Negative
+F0087,C0014,Premium is reasonable and the benefits are excellent.,Positive
+F0088,C0051,I submitted the required claim documents.,Neutral
+F0089,C0049,Premium is reasonable and the benefits are excellent.,Positive
+F0090,C1107,Cashless hospital service was smooth and convenient.,Positive
+F0091,C0934,Cashless hospital service was smooth and convenient.,Positive
+F0092,C0112,Claim was settled quickly and the support team was helpful.,Positive
+F0093,C1298,Claim was settled quickly and the support team was helpful.,Positive
+F0094,C1129,Reimbursement took too long and communication was poor.,Negative
+F0095,C0468,Hospital network information was confusing.,Negative
+F0096,C1020,The renewal date is next month.,Neutral
+F0097,C0182,Premium increased and the service was disappointing.,Negative
+F0098,C1262,Customer service answered my questions clearly.,Positive
+F0099,C0001,Hospital network information was confusing.,Negative
+F0100,C0527,My claim was delayed and customer support did not respond.,Negative
+F0101,C1336,Policy exclusions were unclear and the claim was rejected.,Negative
+F0102,C0439,The renewal date is next month.,Neutral
+F0103,C0817,Premium increased and the service was disappointing.,Negative
+F0104,C1025,Very satisfied with the policy coverage and easy claim process.,Positive
+F0105,C0016,Customer service answered my questions clearly.,Positive
+F0106,C1343,The renewal date is next month.,Neutral
+F0107,C0286,Reimbursement took too long and communication was poor.,Negative
+F0108,C0265,Reimbursement took too long and communication was poor.,Negative
+F0109,C1167,Premium increased and the service was disappointing.,Negative
+F0110,C0847,Claim was settled quickly and the support team was helpful.,Positive
+F0111,C0532,Reimbursement took too long and communication was poor.,Negative
+F0112,C1144,Premium is reasonable and the benefits are excellent.,Positive
+F0113,C0554,Customer service answered my questions clearly.,Positive
+F0114,C0912,I submitted the required claim documents.,Neutral
+F0115,C0149,Policy exclusions were unclear and the claim was rejected.,Negative
+F0116,C1345,Very satisfied with the policy coverage and easy claim process.,Positive
+F0117,C0127,Policy exclusions were unclear and the claim was rejected.,Negative
+F0118,C1181,My claim was delayed and customer support did not respond.,Negative
+F0119,C0968,Policy exclusions were unclear and the claim was rejected.,Negative
+F0120,C0016,Premium increased and the service was disappointing.,Negative
+F0121,C0715,I submitted the required claim documents.,Neutral
+F0122,C1263,My claim was delayed and customer support did not respond.,Negative
+F0123,C0779,I submitted the required claim documents.,Neutral
+F0124,C0881,I contacted the branch to update my address.,Neutral
+F0125,C0405,Cashless hospital service was smooth and convenient.,Positive
+F0126,C0654,Very satisfied with the policy coverage and easy claim process.,Positive
+F0127,C0662,Customer service answered my questions clearly.,Positive
+F0128,C0103,Cashless hospital service was smooth and convenient.,Positive
+F0129,C0762,Premium increased and the service was disappointing.,Negative
+F0130,C0130,Premium is reasonable and the benefits are excellent.,Positive
+F0131,C0757,Customer service answered my questions clearly.,Positive
+F0132,C1064,Policy exclusions were unclear and the claim was rejected.,Negative
+F0133,C0559,My claim was delayed and customer support did not respond.,Negative
+F0134,C0514,I received my policy document by email.,Neutral
+F0135,C0700,The policy includes hospital coverage details.,Neutral
+F0136,C0416,Customer service answered my questions clearly.,Positive
+F0137,C0003,Premium is reasonable and the benefits are excellent.,Positive
+F0138,C0613,Premium increased and the service was disappointing.,Negative
+F0139,C0939,Reimbursement took too long and communication was poor.,Negative
+F0140,C0017,Premium increased and the service was disappointing.,Negative
+F0141,C0770,Very satisfied with the policy coverage and easy claim process.,Positive
+F0142,C0439,Premium increased and the service was disappointing.,Negative
+F0143,C1314,I contacted the branch to update my address.,Neutral
+F0144,C1239,Premium increased and the service was disappointing.,Negative
+F0145,C0615,Premium increased and the service was disappointing.,Negative
+F0146,C0684,The renewal date is next month.,Neutral
+F0147,C1278,Reimbursement took too long and communication was poor.,Negative
+F0148,C0630,Policy exclusions were unclear and the claim was rejected.,Negative
+F0149,C0726,Policy exclusions were unclear and the claim was rejected.,Negative
+F0150,C0597,Cashless hospital service was smooth and convenient.,Positive
+F0151,C0993,I received my policy document by email.,Neutral
+F0152,C1190,I contacted the branch to update my address.,Neutral
+F0153,C0260,The policy includes hospital coverage details.,Neutral
+F0154,C0730,I submitted the required claim documents.,Neutral
+F0155,C0505,The policy includes hospital coverage details.,Neutral
+F0156,C0316,Very satisfied with the policy coverage and easy claim process.,Positive
+F0157,C1311,My claim was delayed and customer support did not respond.,Negative
+F0158,C0833,The renewal date is next month.,Neutral
+F0159,C0524,I contacted the branch to update my address.,Neutral
+F0160,C0791,I submitted the required claim documents.,Neutral
+F0161,C0683,Hospital network information was confusing.,Negative
+F0162,C0334,Premium is reasonable and the benefits are excellent.,Positive
+F0163,C0148,The renewal date is next month.,Neutral
+F0164,C0361,Customer service answered my questions clearly.,Positive
+F0165,C1205,Premium is reasonable and the benefits are excellent.,Positive
+F0166,C0642,Premium is reasonable and the benefits are excellent.,Positive
+F0167,C0438,I submitted the required claim documents.,Neutral
+F0168,C0216,Policy exclusions were unclear and the claim was rejected.,Negative
+F0169,C0439,The policy includes hospital coverage details.,Neutral
+F0170,C1084,The renewal date is next month.,Neutral
+F0171,C0192,Premium is reasonable and the benefits are excellent.,Positive
+F0172,C0901,The renewal date is next month.,Neutral
+F0173,C0465,My claim was delayed and customer support did not respond.,Negative
+F0174,C1177,Policy exclusions were unclear and the claim was rejected.,Negative
+F0175,C1027,Very satisfied with the policy coverage and easy claim process.,Positive
+F0176,C1090,Customer service answered my questions clearly.,Positive
+F0177,C0494,Customer service answered my questions clearly.,Positive
+F0178,C1349,Hospital network information was confusing.,Negative
+F0179,C1354,Policy exclusions were unclear and the claim was rejected.,Negative
+F0180,C1180,Premium is reasonable and the benefits are excellent.,Positive
+F0181,C0913,I submitted the required claim documents.,Neutral
+F0182,C0550,The policy includes hospital coverage details.,Neutral
+F0183,C0446,I contacted the branch to update my address.,Neutral
+F0184,C1025,Reimbursement took too long and communication was poor.,Negative
+F0185,C0802,Premium increased and the service was disappointing.,Negative
+F0186,C0869,Very satisfied with the policy coverage and easy claim process.,Positive
+F0187,C0362,Premium is reasonable and the benefits are excellent.,Positive
+F0188,C0117,Policy exclusions were unclear and the claim was rejected.,Negative
+F0189,C1250,Policy exclusions were unclear and the claim was rejected.,Negative
+F0190,C1383,Policy exclusions were unclear and the claim was rejected.,Negative
+F0191,C1283,Hospital network information was confusing.,Negative
+F0192,C0022,Hospital network information was confusing.,Negative
+F0193,C0490,Cashless hospital service was smooth and convenient.,Positive
+F0194,C1238,Customer service answered my questions clearly.,Positive
+F0195,C0868,Hospital network information was confusing.,Negative
+F0196,C1099,The renewal date is next month.,Neutral
+F0197,C0522,The renewal date is next month.,Neutral
+F0198,C0717,Reimbursement took too long and communication was poor.,Negative
+F0199,C0754,Reimbursement took too long and communication was poor.,Negative
+F0200,C0488,The renewal date is next month.,Neutral
+F0201,C1026,I submitted the required claim documents.,Neutral
+F0202,C0204,My claim was delayed and customer support did not respond.,Negative
+F0203,C0532,Premium is reasonable and the benefits are excellent.,Positive
+F0204,C0766,I submitted the required claim documents.,Neutral
+F0205,C0257,Claim was settled quickly and the support team was helpful.,Positive
+F0206,C0496,Policy exclusions were unclear and the claim was rejected.,Negative
+F0207,C1279,Claim was settled quickly and the support team was helpful.,Positive
+F0208,C1302,Very satisfied with the policy coverage and easy claim process.,Positive
+F0209,C0799,Policy exclusions were unclear and the claim was rejected.,Negative
+F0210,C0406,Premium increased and the service was disappointing.,Negative
+F0211,C0649,The policy includes hospital coverage details.,Neutral
+F0212,C0784,Hospital network information was confusing.,Negative
+F0213,C0083,Hospital network information was confusing.,Negative
+F0214,C0049,Premium increased and the service was disappointing.,Negative
+F0215,C0132,Policy exclusions were unclear and the claim was rejected.,Negative
+F0216,C0742,Very satisfied with the policy coverage and easy claim process.,Positive
+F0217,C0539,Premium increased and the service was disappointing.,Negative
+F0218,C0362,My claim was delayed and customer support did not respond.,Negative
+F0219,C0858,Very satisfied with the policy coverage and easy claim process.,Positive
+F0220,C0566,Policy exclusions were unclear and the claim was rejected.,Negative
+F0221,C0081,Claim was settled quickly and the support team was helpful.,Positive
+F0222,C0411,My claim was delayed and customer support did not respond.,Negative
+F0223,C0417,Premium increased and the service was disappointing.,Negative
+F0224,C1390,The policy includes hospital coverage details.,Neutral
+F0225,C0872,Very satisfied with the policy coverage and easy claim process.,Positive
+F0226,C0060,Policy exclusions were unclear and the claim was rejected.,Negative
+F0227,C0721,I contacted the branch to update my address.,Neutral
+F0228,C0674,Very satisfied with the policy coverage and easy claim process.,Positive
+F0229,C0835,I submitted the required claim documents.,Neutral
+F0230,C0238,The renewal date is next month.,Neutral
+F0231,C0719,Policy exclusions were unclear and the claim was rejected.,Negative
+F0232,C0215,Cashless hospital service was smooth and convenient.,Positive
+F0233,C0330,I contacted the branch to update my address.,Neutral
+F0234,C0635,Policy exclusions were unclear and the claim was rejected.,Negative
+F0235,C0130,Claim was settled quickly and the support team was helpful.,Positive
+F0236,C0757,I received my policy document by email.,Neutral
+F0237,C0425,Policy exclusions were unclear and the claim was rejected.,Negative
+F0238,C0198,Policy exclusions were unclear and the claim was rejected.,Negative
+F0239,C0485,Customer service answered my questions clearly.,Positive
+F0240,C0690,Reimbursement took too long and communication was poor.,Negative
+F0241,C0060,Customer service answered my questions clearly.,Positive
+F0242,C0568,The renewal date is next month.,Neutral
+F0243,C0158,I submitted the required claim documents.,Neutral
+F0244,C0763,I contacted the branch to update my address.,Neutral
+F0245,C0908,Premium increased and the service was disappointing.,Negative
+F0246,C0661,Reimbursement took too long and communication was poor.,Negative
+F0247,C1192,Cashless hospital service was smooth and convenient.,Positive
+F0248,C0038,My claim was delayed and customer support did not respond.,Negative
+F0249,C0055,Hospital network information was confusing.,Negative
+F0250,C1200,Reimbursement took too long and communication was poor.,Negative
+F0251,C0382,Premium is reasonable and the benefits are excellent.,Positive
+F0252,C0082,Reimbursement took too long and communication was poor.,Negative
+F0253,C0620,Customer service answered my questions clearly.,Positive
+F0254,C1285,I received my policy document by email.,Neutral
+F0255,C1120,Cashless hospital service was smooth and convenient.,Positive
+F0256,C0954,Reimbursement took too long and communication was poor.,Negative
+F0257,C1371,Reimbursement took too long and communication was poor.,Negative
+F0258,C0715,Hospital network information was confusing.,Negative
+F0259,C0746,The policy includes hospital coverage details.,Neutral
+F0260,C0900,Very satisfied with the policy coverage and easy claim process.,Positive
+F0261,C0845,Hospital network information was confusing.,Negative
+F0262,C1083,Hospital network information was confusing.,Negative
+F0263,C0228,The renewal date is next month.,Neutral
+F0264,C0760,Premium increased and the service was disappointing.,Negative
+F0265,C0419,Customer service answered my questions clearly.,Positive
+F0266,C1017,Reimbursement took too long and communication was poor.,Negative
+F0267,C0642,My claim was delayed and customer support did not respond.,Negative
+F0268,C1049,Reimbursement took too long and communication was poor.,Negative
+F0269,C1138,Policy exclusions were unclear and the claim was rejected.,Negative
+F0270,C0765,I received my policy document by email.,Neutral
+F0271,C0282,Customer service answered my questions clearly.,Positive
+F0272,C1284,Reimbursement took too long and communication was poor.,Negative
+F0273,C0213,Cashless hospital service was smooth and convenient.,Positive
+F0274,C0641,Reimbursement took too long and communication was poor.,Negative
+F0275,C0352,The policy includes hospital coverage details.,Neutral
+F0276,C0328,Very satisfied with the policy coverage and easy claim process.,Positive
+F0277,C0298,I contacted the branch to update my address.,Neutral
+F0278,C0879,Reimbursement took too long and communication was poor.,Negative
+F0279,C0644,The policy includes hospital coverage details.,Neutral
+F0280,C0274,I received my policy document by email.,Neutral
+F0281,C0194,Reimbursement took too long and communication was poor.,Negative
+F0282,C1339,Very satisfied with the policy coverage and easy claim process.,Positive
+F0283,C0851,Premium increased and the service was disappointing.,Negative
+F0284,C1297,Very satisfied with the policy coverage and easy claim process.,Positive
+F0285,C0411,Very satisfied with the policy coverage and easy claim process.,Positive
+F0286,C0158,The policy includes hospital coverage details.,Neutral
+F0287,C1373,My claim was delayed and customer support did not respond.,Negative
+F0288,C0750,Policy exclusions were unclear and the claim was rejected.,Negative
+F0289,C0326,I submitted the required claim documents.,Neutral
+F0290,C0854,Reimbursement took too long and communication was poor.,Negative
+F0291,C1048,Very satisfied with the policy coverage and easy claim process.,Positive
+F0292,C0269,Policy exclusions were unclear and the claim was rejected.,Negative
+F0293,C0846,The renewal date is next month.,Neutral
+F0294,C0838,Policy exclusions were unclear and the claim was rejected.,Negative
+F0295,C0657,Customer service answered my questions clearly.,Positive
+F0296,C0913,I contacted the branch to update my address.,Neutral
+F0297,C1338,My claim was delayed and customer support did not respond.,Negative
+F0298,C0286,Claim was settled quickly and the support team was helpful.,Positive
+F0299,C1317,The renewal date is next month.,Neutral
+F0300,C0443,Cashless hospital service was smooth and convenient.,Positive
+F0301,C0140,Premium increased and the service was disappointing.,Negative
+F0302,C0057,Customer service answered my questions clearly.,Positive
+F0303,C0079,Policy exclusions were unclear and the claim was rejected.,Negative
+F0304,C0781,My claim was delayed and customer support did not respond.,Negative
+F0305,C1120,I submitted the required claim documents.,Neutral
+F0306,C1128,Customer service answered my questions clearly.,Positive
+F0307,C1010,Premium is reasonable and the benefits are excellent.,Positive
+F0308,C0391,Hospital network information was confusing.,Negative
+F0309,C1015,Claim was settled quickly and the support team was helpful.,Positive
+F0310,C1290,Hospital network information was confusing.,Negative
+F0311,C0331,I submitted the required claim documents.,Neutral
+F0312,C0282,Premium increased and the service was disappointing.,Negative
+F0313,C1321,I submitted the required claim documents.,Neutral
+F0314,C0149,I submitted the required claim documents.,Neutral
+F0315,C1271,Cashless hospital service was smooth and convenient.,Positive
+F0316,C0842,My claim was delayed and customer support did not respond.,Negative
+F0317,C0936,Premium increased and the service was disappointing.,Negative
+F0318,C0267,My claim was delayed and customer support did not respond.,Negative
+F0319,C0289,Hospital network information was confusing.,Negative
+F0320,C1359,My claim was delayed and customer support did not respond.,Negative
+F0321,C0502,My claim was delayed and customer support did not respond.,Negative
+F0322,C0286,Very satisfied with the policy coverage and easy claim process.,Positive
+F0323,C0689,I contacted the branch to update my address.,Neutral
+F0324,C0386,Reimbursement took too long and communication was poor.,Negative
+F0325,C0090,Reimbursement took too long and communication was poor.,Negative
+F0326,C0240,Very satisfied with the policy coverage and easy claim process.,Positive
+F0327,C0169,Customer service answered my questions clearly.,Positive
+F0328,C1053,The policy includes hospital coverage details.,Neutral
+F0329,C0819,Policy exclusions were unclear and the claim was rejected.,Negative
+F0330,C0754,I contacted the branch to update my address.,Neutral
+F0331,C0308,Premium is reasonable and the benefits are excellent.,Positive
+F0332,C1325,Policy exclusions were unclear and the claim was rejected.,Negative
+F0333,C0977,Claim was settled quickly and the support team was helpful.,Positive
+F0334,C0288,I contacted the branch to update my address.,Neutral
+F0335,C0622,I received my policy document by email.,Neutral
+F0336,C0472,Hospital network information was confusing.,Negative
+F0337,C0875,Premium increased and the service was disappointing.,Negative
+F0338,C1305,Hospital network information was confusing.,Negative
+F0339,C0543,The renewal date is next month.,Neutral
+F0340,C1028,Hospital network information was confusing.,Negative
+F0341,C0457,Claim was settled quickly and the support team was helpful.,Positive
+F0342,C1353,I received my policy document by email.,Neutral
+F0343,C0088,Cashless hospital service was smooth and convenient.,Positive
+F0344,C0899,Claim was settled quickly and the support team was helpful.,Positive
+F0345,C0610,Claim was settled quickly and the support team was helpful.,Positive
+F0346,C0756,Reimbursement took too long and communication was poor.,Negative
+F0347,C1293,Customer service answered my questions clearly.,Positive
+F0348,C1012,Policy exclusions were unclear and the claim was rejected.,Negative
+F0349,C0204,Policy exclusions were unclear and the claim was rejected.,Negative
+F0350,C1282,Very satisfied with the policy coverage and easy claim process.,Positive
+F0351,C0439,Premium is reasonable and the benefits are excellent.,Positive
+F0352,C0080,I submitted the required claim documents.,Neutral
+F0353,C0130,Cashless hospital service was smooth and convenient.,Positive
+F0354,C1235,My claim was delayed and customer support did not respond.,Negative
+F0355,C0849,The policy includes hospital coverage details.,Neutral
+F0356,C0732,Premium is reasonable and the benefits are excellent.,Positive
+F0357,C0486,Customer service answered my questions clearly.,Positive
+F0358,C1308,Claim was settled quickly and the support team was helpful.,Positive
+F0359,C0528,I contacted the branch to update my address.,Neutral
+F0360,C0710,Cashless hospital service was smooth and convenient.,Positive
+F0361,C0259,I submitted the required claim documents.,Neutral
+F0362,C0912,I submitted the required claim documents.,Neutral
+F0363,C1249,Policy exclusions were unclear and the claim was rejected.,Negative
+F0364,C0890,I received my policy document by email.,Neutral
+F0365,C0747,Customer service answered my questions clearly.,Positive
+F0366,C0232,Cashless hospital service was smooth and convenient.,Positive
+F0367,C0114,I contacted the branch to update my address.,Neutral
+F0368,C1132,Premium increased and the service was disappointing.,Negative
+F0369,C0720,My claim was delayed and customer support did not respond.,Negative
+F0370,C0500,Cashless hospital service was smooth and convenient.,Positive
+F0371,C0562,Premium increased and the service was disappointing.,Negative
+F0372,C1197,Claim was settled quickly and the support team was helpful.,Positive
+F0373,C0946,Premium increased and the service was disappointing.,Negative
+F0374,C0832,Reimbursement took too long and communication was poor.,Negative
+F0375,C1357,Policy exclusions were unclear and the claim was rejected.,Negative
+F0376,C0974,My claim was delayed and customer support did not respond.,Negative
+F0377,C0573,Cashless hospital service was smooth and convenient.,Positive
+F0378,C0946,Very satisfied with the policy coverage and easy claim process.,Positive
+F0379,C0490,The policy includes hospital coverage details.,Neutral
+F0380,C0345,I submitted the required claim documents.,Neutral
+F0381,C1155,Cashless hospital service was smooth and convenient.,Positive
+F0382,C0328,Cashless hospital service was smooth and convenient.,Positive
+F0383,C0199,Claim was settled quickly and the support team was helpful.,Positive
+F0384,C1316,Cashless hospital service was smooth and convenient.,Positive
+F0385,C1397,Customer service answered my questions clearly.,Positive
+F0386,C0367,The policy includes hospital coverage details.,Neutral
+F0387,C0689,Very satisfied with the policy coverage and easy claim process.,Positive
+F0388,C1025,I contacted the branch to update my address.,Neutral
+F0389,C0350,Premium is reasonable and the benefits are excellent.,Positive
+F0390,C1123,Customer service answered my questions clearly.,Positive
+F0391,C0672,Claim was settled quickly and the support team was helpful.,Positive
+F0392,C0370,Cashless hospital service was smooth and convenient.,Positive
+F0393,C1005,Cashless hospital service was smooth and convenient.,Positive
+F0394,C0180,I submitted the required claim documents.,Neutral
+F0395,C1386,Cashless hospital service was smooth and convenient.,Positive
+F0396,C1051,Cashless hospital service was smooth and convenient.,Positive
+F0397,C1299,Cashless hospital service was smooth and convenient.,Positive
+F0398,C1265,Cashless hospital service was smooth and convenient.,Positive
+F0399,C1159,Claim was settled quickly and the support team was helpful.,Positive
+F0400,C1209,Policy exclusions were unclear and the claim was rejected.,Negative
+F0401,C0841,Hospital network information was confusing.,Negative
+F0402,C0005,Hospital network information was confusing.,Negative
+F0403,C0042,Reimbursement took too long and communication was poor.,Negative
+F0404,C0749,Customer service answered my questions clearly.,Positive
+F0405,C0762,Policy exclusions were unclear and the claim was rejected.,Negative
+F0406,C0167,Very satisfied with the policy coverage and easy claim process.,Positive
+F0407,C0445,Policy exclusions were unclear and the claim was rejected.,Negative
+F0408,C1084,Hospital network information was confusing.,Negative
+F0409,C0561,Policy exclusions were unclear and the claim was rejected.,Negative
+F0410,C1307,Hospital network information was confusing.,Negative
+F0411,C0902,Very satisfied with the policy coverage and easy claim process.,Positive
+F0412,C1213,Premium is reasonable and the benefits are excellent.,Positive
+F0413,C1291,Claim was settled quickly and the support team was helpful.,Positive
+F0414,C0607,Claim was settled quickly and the support team was helpful.,Positive
+F0415,C0085,Cashless hospital service was smooth and convenient.,Positive
+F0416,C0662,Reimbursement took too long and communication was poor.,Negative
+F0417,C0960,Customer service answered my questions clearly.,Positive
+F0418,C0992,Hospital network information was confusing.,Negative
+F0419,C0982,The renewal date is next month.,Neutral
+F0420,C0480,Hospital network information was confusing.,Negative
+F0421,C0554,Premium is reasonable and the benefits are excellent.,Positive
+F0422,C1115,Claim was settled quickly and the support team was helpful.,Positive
+F0423,C0058,Hospital network information was confusing.,Negative
+F0424,C0336,I submitted the required claim documents.,Neutral
+F0425,C0606,Cashless hospital service was smooth and convenient.,Positive
+F0426,C0268,The renewal date is next month.,Neutral
+F0427,C0071,Reimbursement took too long and communication was poor.,Negative
+F0428,C0727,Premium is reasonable and the benefits are excellent.,Positive
+F0429,C1276,Reimbursement took too long and communication was poor.,Negative
+F0430,C1171,Hospital network information was confusing.,Negative
+F0431,C0635,My claim was delayed and customer support did not respond.,Negative
+F0432,C1193,Reimbursement took too long and communication was poor.,Negative
+F0433,C0014,I submitted the required claim documents.,Neutral
+F0434,C0957,Hospital network information was confusing.,Negative
+F0435,C0185,Hospital network information was confusing.,Negative
+F0436,C0533,My claim was delayed and customer support did not respond.,Negative
+F0437,C0460,Cashless hospital service was smooth and convenient.,Positive
+F0438,C0418,Very satisfied with the policy coverage and easy claim process.,Positive
+F0439,C0738,Premium is reasonable and the benefits are excellent.,Positive
+F0440,C0745,The policy includes hospital coverage details.,Neutral
+F0441,C0931,I submitted the required claim documents.,Neutral
+F0442,C0902,Claim was settled quickly and the support team was helpful.,Positive
+F0443,C0380,Claim was settled quickly and the support team was helpful.,Positive
+F0444,C0281,Policy exclusions were unclear and the claim was rejected.,Negative
+F0445,C0173,The policy includes hospital coverage details.,Neutral
+F0446,C0840,Premium is reasonable and the benefits are excellent.,Positive
+F0447,C1149,The policy includes hospital coverage details.,Neutral
+F0448,C0358,Reimbursement took too long and communication was poor.,Negative
+F0449,C0996,Reimbursement took too long and communication was poor.,Negative
+F0450,C1394,Customer service answered my questions clearly.,Positive
+F0451,C0725,My claim was delayed and customer support did not respond.,Negative
+F0452,C0606,Claim was settled quickly and the support team was helpful.,Positive
+F0453,C1038,Claim was settled quickly and the support team was helpful.,Positive
+F0454,C1104,Reimbursement took too long and communication was poor.,Negative
+F0455,C0965,Hospital network information was confusing.,Negative
+F0456,C0601,Premium is reasonable and the benefits are excellent.,Positive
+F0457,C0932,Very satisfied with the policy coverage and easy claim process.,Positive
+F0458,C0975,Reimbursement took too long and communication was poor.,Negative
+F0459,C0027,The policy includes hospital coverage details.,Neutral
+F0460,C0120,Premium increased and the service was disappointing.,Negative
+F0461,C0304,My claim was delayed and customer support did not respond.,Negative
+F0462,C1344,Premium is reasonable and the benefits are excellent.,Positive
+F0463,C0823,The renewal date is next month.,Neutral
+F0464,C0255,Very satisfied with the policy coverage and easy claim process.,Positive
+F0465,C0197,Policy exclusions were unclear and the claim was rejected.,Negative
+F0466,C1202,My claim was delayed and customer support did not respond.,Negative
+F0467,C1388,Very satisfied with the policy coverage and easy claim process.,Positive
+F0468,C0455,Policy exclusions were unclear and the claim was rejected.,Negative
+F0469,C0619,Hospital network information was confusing.,Negative
+F0470,C0654,Policy exclusions were unclear and the claim was rejected.,Negative
+F0471,C0197,Policy exclusions were unclear and the claim was rejected.,Negative
+F0472,C0181,Premium increased and the service was disappointing.,Negative
+F0473,C0613,I submitted the required claim documents.,Neutral
+F0474,C0341,Reimbursement took too long and communication was poor.,Negative
+F0475,C0111,Cashless hospital service was smooth and convenient.,Positive
+F0476,C1231,Very satisfied with the policy coverage and easy claim process.,Positive
+F0477,C0830,Hospital network information was confusing.,Negative
+F0478,C1271,Reimbursement took too long and communication was poor.,Negative
+F0479,C0278,Reimbursement took too long and communication was poor.,Negative
+F0480,C1040,I submitted the required claim documents.,Neutral
+F0481,C0370,Customer service answered my questions clearly.,Positive
+F0482,C1031,Reimbursement took too long and communication was poor.,Negative
+F0483,C0477,Very satisfied with the policy coverage and easy claim process.,Positive
+F0484,C1370,Very satisfied with the policy coverage and easy claim process.,Positive
+F0485,C0515,I received my policy document by email.,Neutral
+F0486,C0857,Cashless hospital service was smooth and convenient.,Positive
+F0487,C0704,Claim was settled quickly and the support team was helpful.,Positive
+F0488,C1212,Premium increased and the service was disappointing.,Negative
+F0489,C0454,The policy includes hospital coverage details.,Neutral
+F0490,C0164,I received my policy document by email.,Neutral
+F0491,C1169,Premium increased and the service was disappointing.,Negative
+F0492,C0936,Premium increased and the service was disappointing.,Negative
+F0493,C1136,Claim was settled quickly and the support team was helpful.,Positive
+F0494,C0963,I submitted the required claim documents.,Neutral
+F0495,C0763,Cashless hospital service was smooth and convenient.,Positive
+F0496,C0833,Premium increased and the service was disappointing.,Negative
+F0497,C0607,Premium is reasonable and the benefits are excellent.,Positive
+F0498,C0149,Hospital network information was confusing.,Negative
+F0499,C0607,Hospital network information was confusing.,Negative
+F0500,C0308,Premium is reasonable and the benefits are excellent.,Positive
+F0501,C0480,Premium is reasonable and the benefits are excellent.,Positive
+F0502,C1384,The policy includes hospital coverage details.,Neutral
+F0503,C0937,My claim was delayed and customer support did not respond.,Negative
+F0504,C1185,Hospital network information was confusing.,Negative
+F0505,C0060,Claim was settled quickly and the support team was helpful.,Positive
+F0506,C1399,The renewal date is next month.,Neutral
+F0507,C1145,Very satisfied with the policy coverage and easy claim process.,Positive
+F0508,C0506,Premium increased and the service was disappointing.,Negative
+F0509,C0266,Premium increased and the service was disappointing.,Negative
+F0510,C0904,Customer service answered my questions clearly.,Positive
+F0511,C1325,Premium is reasonable and the benefits are excellent.,Positive
+F0512,C0020,Very satisfied with the policy coverage and easy claim process.,Positive
+F0513,C0904,My claim was delayed and customer support did not respond.,Negative
+F0514,C0445,Premium increased and the service was disappointing.,Negative
+F0515,C0435,I received my policy document by email.,Neutral
+F0516,C0661,Hospital network information was confusing.,Negative
+F0517,C1205,Cashless hospital service was smooth and convenient.,Positive
+F0518,C0426,The policy includes hospital coverage details.,Neutral
+F0519,C0655,The policy includes hospital coverage details.,Neutral
+F0520,C0526,Premium is reasonable and the benefits are excellent.,Positive
+F0521,C1212,Customer service answered my questions clearly.,Positive
+F0522,C0228,Reimbursement took too long and communication was poor.,Negative
+F0523,C0677,I received my policy document by email.,Neutral
+F0524,C0424,Policy exclusions were unclear and the claim was rejected.,Negative
+F0525,C0418,Hospital network information was confusing.,Negative
+F0526,C0930,Premium is reasonable and the benefits are excellent.,Positive
+F0527,C0201,Premium increased and the service was disappointing.,Negative
+F0528,C0158,The policy includes hospital coverage details.,Neutral
+F0529,C0130,My claim was delayed and customer support did not respond.,Negative
+F0530,C0860,Claim was settled quickly and the support team was helpful.,Positive
+F0531,C0632,Very satisfied with the policy coverage and easy claim process.,Positive
+F0532,C0904,Hospital network information was confusing.,Negative
+F0533,C1221,Cashless hospital service was smooth and convenient.,Positive
+F0534,C0990,I received my policy document by email.,Neutral
+F0535,C1022,My claim was delayed and customer support did not respond.,Negative
+F0536,C1358,Hospital network information was confusing.,Negative
+F0537,C1070,Very satisfied with the policy coverage and easy claim process.,Positive
+F0538,C1218,The renewal date is next month.,Neutral
+F0539,C1230,Hospital network information was confusing.,Negative
+F0540,C1050,Cashless hospital service was smooth and convenient.,Positive
+F0541,C0599,My claim was delayed and customer support did not respond.,Negative
+F0542,C0064,I contacted the branch to update my address.,Neutral
+F0543,C1069,Policy exclusions were unclear and the claim was rejected.,Negative
+F0544,C1094,Cashless hospital service was smooth and convenient.,Positive
+F0545,C0379,Policy exclusions were unclear and the claim was rejected.,Negative
+F0546,C1131,Premium increased and the service was disappointing.,Negative
+F0547,C0792,Cashless hospital service was smooth and convenient.,Positive
+F0548,C0204,Premium increased and the service was disappointing.,Negative
+F0549,C0421,Premium increased and the service was disappointing.,Negative
+F0550,C1161,I submitted the required claim documents.,Neutral
+F0551,C0528,Customer service answered my questions clearly.,Positive
+F0552,C1226,I submitted the required claim documents.,Neutral
+F0553,C0202,Very satisfied with the policy coverage and easy claim process.,Positive
+F0554,C0918,Premium is reasonable and the benefits are excellent.,Positive
+F0555,C0717,I submitted the required claim documents.,Neutral
+F0556,C1304,Premium is reasonable and the benefits are excellent.,Positive
+F0557,C0084,Customer service answered my questions clearly.,Positive
+F0558,C1238,Customer service answered my questions clearly.,Positive
+F0559,C0511,Policy exclusions were unclear and the claim was rejected.,Negative
+F0560,C1268,Premium is reasonable and the benefits are excellent.,Positive
+F0561,C1345,Customer service answered my questions clearly.,Positive
+F0562,C1076,Very satisfied with the policy coverage and easy claim process.,Positive
+F0563,C1306,Cashless hospital service was smooth and convenient.,Positive
+F0564,C0001,Policy exclusions were unclear and the claim was rejected.,Negative
+F0565,C1400,I received my policy document by email.,Neutral
+F0566,C0506,Policy exclusions were unclear and the claim was rejected.,Negative
+F0567,C1202,I received my policy document by email.,Neutral
+F0568,C1183,Hospital network information was confusing.,Negative
+F0569,C1029,Reimbursement took too long and communication was poor.,Negative
+F0570,C0131,Customer service answered my questions clearly.,Positive
+F0571,C0047,I submitted the required claim documents.,Neutral
+F0572,C0592,Premium increased and the service was disappointing.,Negative
+F0573,C0189,Hospital network information was confusing.,Negative
+F0574,C1371,I submitted the required claim documents.,Neutral
+F0575,C0929,Cashless hospital service was smooth and convenient.,Positive
+F0576,C0648,My claim was delayed and customer support did not respond.,Negative
+F0577,C1385,The policy includes hospital coverage details.,Neutral
+F0578,C0061,Cashless hospital service was smooth and convenient.,Positive
+F0579,C0265,Claim was settled quickly and the support team was helpful.,Positive
+F0580,C0467,Hospital network information was confusing.,Negative
+F0581,C0368,My claim was delayed and customer support did not respond.,Negative
+F0582,C0487,My claim was delayed and customer support did not respond.,Negative
+F0583,C0674,The renewal date is next month.,Neutral
+F0584,C0823,I received my policy document by email.,Neutral
+F0585,C0576,Customer service answered my questions clearly.,Positive
+F0586,C0158,Reimbursement took too long and communication was poor.,Negative
+F0587,C0296,Policy exclusions were unclear and the claim was rejected.,Negative
+F0588,C0677,Customer service answered my questions clearly.,Positive
+F0589,C0529,Premium is reasonable and the benefits are excellent.,Positive
+F0590,C0510,Hospital network information was confusing.,Negative
+F0591,C0119,I received my policy document by email.,Neutral
+F0592,C0089,Reimbursement took too long and communication was poor.,Negative
+F0593,C1078,Premium increased and the service was disappointing.,Negative
+F0594,C0129,The renewal date is next month.,Neutral
+F0595,C0829,The renewal date is next month.,Neutral
+F0596,C0378,Policy exclusions were unclear and the claim was rejected.,Negative
+F0597,C0195,My claim was delayed and customer support did not respond.,Negative
+F0598,C0601,Customer service answered my questions clearly.,Positive
+F0599,C0387,Cashless hospital service was smooth and convenient.,Positive
+F0600,C0118,Claim was settled quickly and the support team was helpful.,Positive
+F0601,C1390,Customer service answered my questions clearly.,Positive
+F0602,C0594,Claim was settled quickly and the support team was helpful.,Positive
+F0603,C0106,Hospital network information was confusing.,Negative
+F0604,C1132,Policy exclusions were unclear and the claim was rejected.,Negative
+F0605,C0852,The policy includes hospital coverage details.,Neutral
+F0606,C0177,Policy exclusions were unclear and the claim was rejected.,Negative
+F0607,C0932,Customer service answered my questions clearly.,Positive
+F0608,C0435,Cashless hospital service was smooth and convenient.,Positive
+F0609,C1398,Claim was settled quickly and the support team was helpful.,Positive
+F0610,C0991,Claim was settled quickly and the support team was helpful.,Positive
+F0611,C0969,My claim was delayed and customer support did not respond.,Negative
+F0612,C0337,Policy exclusions were unclear and the claim was rejected.,Negative
+F0613,C0811,Reimbursement took too long and communication was poor.,Negative
+F0614,C1364,I contacted the branch to update my address.,Neutral
+F0615,C0066,Cashless hospital service was smooth and convenient.,Positive
+F0616,C0915,I contacted the branch to update my address.,Neutral
+F0617,C0942,Cashless hospital service was smooth and convenient.,Positive
+F0618,C0448,Cashless hospital service was smooth and convenient.,Positive
+F0619,C0161,Claim was settled quickly and the support team was helpful.,Positive
+F0620,C0572,Hospital network information was confusing.,Negative
+F0621,C0381,Reimbursement took too long and communication was poor.,Negative
+F0622,C0789,I contacted the branch to update my address.,Neutral
+F0623,C0638,The renewal date is next month.,Neutral
+F0624,C0541,Premium is reasonable and the benefits are excellent.,Positive
+F0625,C0547,Premium is reasonable and the benefits are excellent.,Positive
+F0626,C0102,Claim was settled quickly and the support team was helpful.,Positive
+F0627,C0466,Cashless hospital service was smooth and convenient.,Positive
+F0628,C1374,I contacted the branch to update my address.,Neutral
+F0629,C1248,Very satisfied with the policy coverage and easy claim process.,Positive
+F0630,C1059,Cashless hospital service was smooth and convenient.,Positive
+F0631,C0430,My claim was delayed and customer support did not respond.,Negative
+F0632,C1249,Hospital network information was confusing.,Negative
+F0633,C0681,Customer service answered my questions clearly.,Positive
+F0634,C0509,Premium increased and the service was disappointing.,Negative
+F0635,C1311,Very satisfied with the policy coverage and easy claim process.,Positive
+F0636,C0216,Policy exclusions were unclear and the claim was rejected.,Negative
+F0637,C0891,I contacted the branch to update my address.,Neutral
+F0638,C1241,Hospital network information was confusing.,Negative
+F0639,C0036,Very satisfied with the policy coverage and easy claim process.,Positive
+F0640,C0006,Cashless hospital service was smooth and convenient.,Positive
+F0641,C1071,Reimbursement took too long and communication was poor.,Negative
+F0642,C0910,Premium increased and the service was disappointing.,Negative
+F0643,C0266,Claim was settled quickly and the support team was helpful.,Positive
+F0644,C0594,I received my policy document by email.,Neutral
+F0645,C0739,I received my policy document by email.,Neutral
+F0646,C1207,My claim was delayed and customer support did not respond.,Negative
+F0647,C0073,Policy exclusions were unclear and the claim was rejected.,Negative
+F0648,C0245,Reimbursement took too long and communication was poor.,Negative
+F0649,C1102,My claim was delayed and customer support did not respond.,Negative
+F0650,C0130,Premium increased and the service was disappointing.,Negative
+F0651,C0633,Customer service answered my questions clearly.,Positive
+F0652,C0135,I contacted the branch to update my address.,Neutral
+F0653,C0780,Hospital network information was confusing.,Negative
+F0654,C0071,Policy exclusions were unclear and the claim was rejected.,Negative
+F0655,C0110,Policy exclusions were unclear and the claim was rejected.,Negative
+F0656,C1060,Very satisfied with the policy coverage and easy claim process.,Positive
+F0657,C0942,The renewal date is next month.,Neutral
+F0658,C0585,Claim was settled quickly and the support team was helpful.,Positive
+F0659,C0757,Premium is reasonable and the benefits are excellent.,Positive
+F0660,C0103,Hospital network information was confusing.,Negative
+F0661,C0210,Policy exclusions were unclear and the claim was rejected.,Negative
+F0662,C0565,Reimbursement took too long and communication was poor.,Negative
+F0663,C0696,Hospital network information was confusing.,Negative
+F0664,C1142,Reimbursement took too long and communication was poor.,Negative
+F0665,C0593,Cashless hospital service was smooth and convenient.,Positive
+F0666,C1037,Customer service answered my questions clearly.,Positive
+F0667,C0623,The policy includes hospital coverage details.,Neutral
+F0668,C0634,Cashless hospital service was smooth and convenient.,Positive
+F0669,C1051,The policy includes hospital coverage details.,Neutral
+F0670,C1010,I submitted the required claim documents.,Neutral
+F0671,C0146,The renewal date is next month.,Neutral
+F0672,C0021,Reimbursement took too long and communication was poor.,Negative
+F0673,C0023,I received my policy document by email.,Neutral
+F0674,C0729,Very satisfied with the policy coverage and easy claim process.,Positive
+F0675,C0055,Reimbursement took too long and communication was poor.,Negative
+F0676,C1389,My claim was delayed and customer support did not respond.,Negative
+F0677,C1038,Premium is reasonable and the benefits are excellent.,Positive
+F0678,C1206,Claim was settled quickly and the support team was helpful.,Positive
+F0679,C0845,Premium is reasonable and the benefits are excellent.,Positive
+F0680,C1220,My claim was delayed and customer support did not respond.,Negative
+F0681,C0387,Premium is reasonable and the benefits are excellent.,Positive
+F0682,C0463,Premium increased and the service was disappointing.,Negative
+F0683,C0245,Very satisfied with the policy coverage and easy claim process.,Positive
+F0684,C0296,The policy includes hospital coverage details.,Neutral
+F0685,C1346,Reimbursement took too long and communication was poor.,Negative
+F0686,C0421,Premium is reasonable and the benefits are excellent.,Positive
+F0687,C1005,Very satisfied with the policy coverage and easy claim process.,Positive
+F0688,C0147,I submitted the required claim documents.,Neutral
+F0689,C0386,Hospital network information was confusing.,Negative
+F0690,C0604,The policy includes hospital coverage details.,Neutral
+F0691,C0942,Customer service answered my questions clearly.,Positive
+F0692,C0451,Premium increased and the service was disappointing.,Negative
+F0693,C1191,I contacted the branch to update my address.,Neutral
+F0694,C1397,Very satisfied with the policy coverage and easy claim process.,Positive
+F0695,C0250,I received my policy document by email.,Neutral
+F0696,C1003,I received my policy document by email.,Neutral
+F0697,C1282,Premium is reasonable and the benefits are excellent.,Positive
+F0698,C0451,Premium is reasonable and the benefits are excellent.,Positive
+F0699,C0088,Customer service answered my questions clearly.,Positive
+F0700,C0235,Reimbursement took too long and communication was poor.,Negative
+F0701,C0972,Very satisfied with the policy coverage and easy claim process.,Positive
+F0702,C1338,Reimbursement took too long and communication was poor.,Negative
+F0703,C0294,I submitted the required claim documents.,Neutral
+F0704,C0733,Premium increased and the service was disappointing.,Negative
+F0705,C1033,I submitted the required claim documents.,Neutral
+F0706,C0508,I submitted the required claim documents.,Neutral
+F0707,C1282,I received my policy document by email.,Neutral
+F0708,C0720,Premium is reasonable and the benefits are excellent.,Positive
+F0709,C1127,My claim was delayed and customer support did not respond.,Negative
+F0710,C0285,Hospital network information was confusing.,Negative
+F0711,C1181,I submitted the required claim documents.,Neutral
+F0712,C1352,Customer service answered my questions clearly.,Positive
+F0713,C1245,Premium is reasonable and the benefits are excellent.,Positive
+F0714,C1181,Cashless hospital service was smooth and convenient.,Positive
+F0715,C0668,Hospital network information was confusing.,Negative
+F0716,C0949,Hospital network information was confusing.,Negative
+F0717,C0982,My claim was delayed and customer support did not respond.,Negative
+F0718,C0767,Customer service answered my questions clearly.,Positive
+F0719,C0539,Cashless hospital service was smooth and convenient.,Positive
+F0720,C0483,Premium is reasonable and the benefits are excellent.,Positive
+F0721,C0560,Cashless hospital service was smooth and convenient.,Positive
+F0722,C0222,Customer service answered my questions clearly.,Positive
+F0723,C0191,Cashless hospital service was smooth and convenient.,Positive
+F0724,C0934,Cashless hospital service was smooth and convenient.,Positive
+F0725,C0234,Reimbursement took too long and communication was poor.,Negative
+F0726,C1264,Hospital network information was confusing.,Negative
+F0727,C0054,The renewal date is next month.,Neutral
+F0728,C0340,Policy exclusions were unclear and the claim was rejected.,Negative
+F0729,C0725,My claim was delayed and customer support did not respond.,Negative
+F0730,C0159,Hospital network information was confusing.,Negative
+F0731,C1355,Policy exclusions were unclear and the claim was rejected.,Negative
+F0732,C1306,Reimbursement took too long and communication was poor.,Negative
+F0733,C1108,Very satisfied with the policy coverage and easy claim process.,Positive
+F0734,C0857,I submitted the required claim documents.,Neutral
+F0735,C1224,Customer service answered my questions clearly.,Positive
+F0736,C1013,Premium is reasonable and the benefits are excellent.,Positive
+F0737,C0430,Premium increased and the service was disappointing.,Negative
+F0738,C0180,Customer service answered my questions clearly.,Positive
+F0739,C0387,Cashless hospital service was smooth and convenient.,Positive
+F0740,C0829,Premium increased and the service was disappointing.,Negative
+F0741,C1023,I received my policy document by email.,Neutral
+F0742,C0110,Customer service answered my questions clearly.,Positive
+F0743,C0974,My claim was delayed and customer support did not respond.,Negative
+F0744,C1027,Premium increased and the service was disappointing.,Negative
+F0745,C0324,Premium increased and the service was disappointing.,Negative
+F0746,C0974,Very satisfied with the policy coverage and easy claim process.,Positive
+F0747,C0546,Premium increased and the service was disappointing.,Negative
+F0748,C0869,Reimbursement took too long and communication was poor.,Negative
+F0749,C0312,Customer service answered my questions clearly.,Positive
+F0750,C0259,Claim was settled quickly and the support team was helpful.,Positive
+F0751,C0554,I submitted the required claim documents.,Neutral
+F0752,C0686,Premium is reasonable and the benefits are excellent.,Positive
+F0753,C0381,Premium is reasonable and the benefits are excellent.,Positive
+F0754,C1301,The renewal date is next month.,Neutral
+F0755,C1112,Hospital network information was confusing.,Negative
+F0756,C1317,Very satisfied with the policy coverage and easy claim process.,Positive
+F0757,C0274,My claim was delayed and customer support did not respond.,Negative
+F0758,C1248,Very satisfied with the policy coverage and easy claim process.,Positive
+F0759,C0248,Policy exclusions were unclear and the claim was rejected.,Negative
+F0760,C0663,My claim was delayed and customer support did not respond.,Negative
+F0761,C0078,Cashless hospital service was smooth and convenient.,Positive
+F0762,C0464,Cashless hospital service was smooth and convenient.,Positive
+F0763,C1042,Cashless hospital service was smooth and convenient.,Positive
+F0764,C0678,Premium is reasonable and the benefits are excellent.,Positive
+F0765,C1174,Premium is reasonable and the benefits are excellent.,Positive
+F0766,C0702,Claim was settled quickly and the support team was helpful.,Positive
+F0767,C0289,Policy exclusions were unclear and the claim was rejected.,Negative
+F0768,C0215,Reimbursement took too long and communication was poor.,Negative
+F0769,C1297,Hospital network information was confusing.,Negative
+F0770,C0793,I contacted the branch to update my address.,Neutral
+F0771,C1339,Premium is reasonable and the benefits are excellent.,Positive
+F0772,C1300,Claim was settled quickly and the support team was helpful.,Positive
+F0773,C0404,Very satisfied with the policy coverage and easy claim process.,Positive
+F0774,C1339,Very satisfied with the policy coverage and easy claim process.,Positive
+F0775,C1161,Hospital network information was confusing.,Negative
+F0776,C0165,I received my policy document by email.,Neutral
+F0777,C0691,Customer service answered my questions clearly.,Positive
+F0778,C1351,Very satisfied with the policy coverage and easy claim process.,Positive
+F0779,C0928,Hospital network information was confusing.,Negative
+F0780,C1396,Cashless hospital service was smooth and convenient.,Positive
+F0781,C0552,Reimbursement took too long and communication was poor.,Negative
+F0782,C0967,Cashless hospital service was smooth and convenient.,Positive
+F0783,C0328,Policy exclusions were unclear and the claim was rejected.,Negative
+F0784,C0050,Hospital network information was confusing.,Negative
+F0785,C0594,Customer service answered my questions clearly.,Positive
+F0786,C0416,Hospital network information was confusing.,Negative
+F0787,C0886,Customer service answered my questions clearly.,Positive
+F0788,C0670,Cashless hospital service was smooth and convenient.,Positive
+F0789,C1397,Premium increased and the service was disappointing.,Negative
+F0790,C0461,Policy exclusions were unclear and the claim was rejected.,Negative
+F0791,C1049,Cashless hospital service was smooth and convenient.,Positive
+F0792,C0509,Cashless hospital service was smooth and convenient.,Positive
+F0793,C1030,Reimbursement took too long and communication was poor.,Negative
+F0794,C0660,Customer service answered my questions clearly.,Positive
+F0795,C0344,Premium is reasonable and the benefits are excellent.,Positive
+F0796,C0350,Hospital network information was confusing.,Negative
+F0797,C0127,Policy exclusions were unclear and the claim was rejected.,Negative
+F0798,C1177,Reimbursement took too long and communication was poor.,Negative
+F0799,C0497,Premium is reasonable and the benefits are excellent.,Positive
+F0800,C0083,I submitted the required claim documents.,Neutral
+F0801,C1228,The renewal date is next month.,Neutral
+F0802,C1011,My claim was delayed and customer support did not respond.,Negative
+F0803,C1131,My claim was delayed and customer support did not respond.,Negative
+F0804,C1216,The renewal date is next month.,Neutral
+F0805,C0275,Claim was settled quickly and the support team was helpful.,Positive
+F0806,C0279,My claim was delayed and customer support did not respond.,Negative
+F0807,C1167,Claim was settled quickly and the support team was helpful.,Positive
+F0808,C0284,Premium is reasonable and the benefits are excellent.,Positive
+F0809,C0793,Policy exclusions were unclear and the claim was rejected.,Negative
+F0810,C0676,Claim was settled quickly and the support team was helpful.,Positive
+F0811,C0491,Claim was settled quickly and the support team was helpful.,Positive
+F0812,C0205,Claim was settled quickly and the support team was helpful.,Positive
+F0813,C0604,Cashless hospital service was smooth and convenient.,Positive
+F0814,C0256,Cashless hospital service was smooth and convenient.,Positive
+F0815,C1222,Reimbursement took too long and communication was poor.,Negative
+F0816,C0225,Cashless hospital service was smooth and convenient.,Positive
+F0817,C0711,I submitted the required claim documents.,Neutral
+F0818,C1125,I received my policy document by email.,Neutral
+F0819,C0410,I submitted the required claim documents.,Neutral
+F0820,C1023,Claim was settled quickly and the support team was helpful.,Positive
+F0821,C0220,I received my policy document by email.,Neutral
+F0822,C0647,Premium increased and the service was disappointing.,Negative
+F0823,C1272,My claim was delayed and customer support did not respond.,Negative
+F0824,C0051,Premium increased and the service was disappointing.,Negative
+F0825,C0954,I received my policy document by email.,Neutral
+F0826,C1126,Claim was settled quickly and the support team was helpful.,Positive
+F0827,C0222,Premium is reasonable and the benefits are excellent.,Positive
+F0828,C0980,Very satisfied with the policy coverage and easy claim process.,Positive
+F0829,C0957,The renewal date is next month.,Neutral
+F0830,C0885,Cashless hospital service was smooth and convenient.,Positive
+F0831,C0087,Premium is reasonable and the benefits are excellent.,Positive
+F0832,C0146,Policy exclusions were unclear and the claim was rejected.,Negative
+F0833,C1103,Reimbursement took too long and communication was poor.,Negative
+F0834,C0572,Cashless hospital service was smooth and convenient.,Positive
+F0835,C1101,Customer service answered my questions clearly.,Positive
+F0836,C0405,My claim was delayed and customer support did not respond.,Negative
+F0837,C0456,My claim was delayed and customer support did not respond.,Negative
+F0838,C0384,Hospital network information was confusing.,Negative
+F0839,C0437,Claim was settled quickly and the support team was helpful.,Positive
+F0840,C1219,The renewal date is next month.,Neutral
+F0841,C1155,Claim was settled quickly and the support team was helpful.,Positive
+F0842,C1355,Policy exclusions were unclear and the claim was rejected.,Negative
+F0843,C0662,The policy includes hospital coverage details.,Neutral
+F0844,C0397,Customer service answered my questions clearly.,Positive
+F0845,C1335,Claim was settled quickly and the support team was helpful.,Positive
+F0846,C0789,Policy exclusions were unclear and the claim was rejected.,Negative
+F0847,C0772,I contacted the branch to update my address.,Neutral
+F0848,C0103,Premium is reasonable and the benefits are excellent.,Positive
+F0849,C0954,My claim was delayed and customer support did not respond.,Negative
+F0850,C0724,Reimbursement took too long and communication was poor.,Negative
+F0851,C0124,Premium increased and the service was disappointing.,Negative
+F0852,C0983,Policy exclusions were unclear and the claim was rejected.,Negative
+F0853,C1003,Customer service answered my questions clearly.,Positive
+F0854,C0226,The policy includes hospital coverage details.,Neutral
+F0855,C1111,Customer service answered my questions clearly.,Positive
+F0856,C0704,Very satisfied with the policy coverage and easy claim process.,Positive
+F0857,C1081,Policy exclusions were unclear and the claim was rejected.,Negative
+F0858,C1098,I contacted the branch to update my address.,Neutral
+F0859,C0092,Reimbursement took too long and communication was poor.,Negative
+F0860,C0350,Reimbursement took too long and communication was poor.,Negative
+F0861,C0980,I contacted the branch to update my address.,Neutral
+F0862,C0740,Very satisfied with the policy coverage and easy claim process.,Positive
+F0863,C0696,I received my policy document by email.,Neutral
+F0864,C0927,The renewal date is next month.,Neutral
+F0865,C0399,Policy exclusions were unclear and the claim was rejected.,Negative
+F0866,C0948,I received my policy document by email.,Neutral
+F0867,C0751,Premium is reasonable and the benefits are excellent.,Positive
+F0868,C0153,Very satisfied with the policy coverage and easy claim process.,Positive
+F0869,C0020,I submitted the required claim documents.,Neutral
+F0870,C0960,Customer service answered my questions clearly.,Positive
+F0871,C0488,Very satisfied with the policy coverage and easy claim process.,Positive
+F0872,C0238,My claim was delayed and customer support did not respond.,Negative
+F0873,C0372,Policy exclusions were unclear and the claim was rejected.,Negative
+F0874,C1179,I contacted the branch to update my address.,Neutral
+F0875,C0431,Premium is reasonable and the benefits are excellent.,Positive
+F0876,C0427,The renewal date is next month.,Neutral
+F0877,C1389,The renewal date is next month.,Neutral
+F0878,C0271,Very satisfied with the policy coverage and easy claim process.,Positive
+F0879,C0834,Cashless hospital service was smooth and convenient.,Positive
+F0880,C1071,Reimbursement took too long and communication was poor.,Negative
+F0881,C0998,Claim was settled quickly and the support team was helpful.,Positive
+F0882,C0461,Claim was settled quickly and the support team was helpful.,Positive
+F0883,C0949,The policy includes hospital coverage details.,Neutral
+F0884,C0511,Hospital network information was confusing.,Negative
+F0885,C0368,Claim was settled quickly and the support team was helpful.,Positive
+F0886,C1093,Reimbursement took too long and communication was poor.,Negative
+F0887,C0174,Claim was settled quickly and the support team was helpful.,Positive
+F0888,C0633,Policy exclusions were unclear and the claim was rejected.,Negative
+F0889,C0313,My claim was delayed and customer support did not respond.,Negative
+F0890,C1118,Policy exclusions were unclear and the claim was rejected.,Negative
+F0891,C0580,The policy includes hospital coverage details.,Neutral
+F0892,C0033,Cashless hospital service was smooth and convenient.,Positive
+F0893,C1323,Hospital network information was confusing.,Negative
+F0894,C1012,I submitted the required claim documents.,Neutral
+F0895,C0144,Very satisfied with the policy coverage and easy claim process.,Positive
+F0896,C0143,Customer service answered my questions clearly.,Positive
+F0897,C1337,The policy includes hospital coverage details.,Neutral
+F0898,C1358,Premium is reasonable and the benefits are excellent.,Positive
+F0899,C0641,Policy exclusions were unclear and the claim was rejected.,Negative
+F0900,C1294,The renewal date is next month.,Neutral
+F0901,C1027,Premium increased and the service was disappointing.,Negative
+F0902,C0522,The renewal date is next month.,Neutral
+F0903,C0778,Cashless hospital service was smooth and convenient.,Positive
+F0904,C0355,I received my policy document by email.,Neutral
+F0905,C1051,Premium is reasonable and the benefits are excellent.,Positive
+F0906,C0693,Policy exclusions were unclear and the claim was rejected.,Negative
+F0907,C1227,Customer service answered my questions clearly.,Positive
+F0908,C0266,Premium increased and the service was disappointing.,Negative
+F0909,C0315,My claim was delayed and customer support did not respond.,Negative
+F0910,C0372,I received my policy document by email.,Neutral
+F0911,C0315,I received my policy document by email.,Neutral
+F0912,C0287,Claim was settled quickly and the support team was helpful.,Positive
+F0913,C0768,Customer service answered my questions clearly.,Positive
+F0914,C0831,Reimbursement took too long and communication was poor.,Negative
+F0915,C0552,Premium increased and the service was disappointing.,Negative
+F0916,C1318,Premium is reasonable and the benefits are excellent.,Positive
+F0917,C0908,Very satisfied with the policy coverage and easy claim process.,Positive
+F0918,C0405,Very satisfied with the policy coverage and easy claim process.,Positive
+F0919,C1358,My claim was delayed and customer support did not respond.,Negative
+F0920,C0765,Premium is reasonable and the benefits are excellent.,Positive
+F0921,C0135,Cashless hospital service was smooth and convenient.,Positive
+F0922,C0335,Premium is reasonable and the benefits are excellent.,Positive
+F0923,C1040,My claim was delayed and customer support did not respond.,Negative
+F0924,C1236,I contacted the branch to update my address.,Neutral
+F0925,C1329,Cashless hospital service was smooth and convenient.,Positive
+F0926,C0206,Policy exclusions were unclear and the claim was rejected.,Negative
+F0927,C0978,Claim was settled quickly and the support team was helpful.,Positive
+F0928,C0428,Reimbursement took too long and communication was poor.,Negative
+F0929,C0030,Premium is reasonable and the benefits are excellent.,Positive
+F0930,C1327,Cashless hospital service was smooth and convenient.,Positive
+F0931,C0783,The policy includes hospital coverage details.,Neutral
+F0932,C0739,Very satisfied with the policy coverage and easy claim process.,Positive
+F0933,C1068,Cashless hospital service was smooth and convenient.,Positive
+F0934,C1219,The renewal date is next month.,Neutral
+F0935,C0681,Very satisfied with the policy coverage and easy claim process.,Positive
+F0936,C0178,Premium increased and the service was disappointing.,Negative
+F0937,C0787,Cashless hospital service was smooth and convenient.,Positive
+F0938,C0787,Cashless hospital service was smooth and convenient.,Positive
+F0939,C0133,My claim was delayed and customer support did not respond.,Negative
+F0940,C1035,Hospital network information was confusing.,Negative
+F0941,C0066,Hospital network information was confusing.,Negative
+F0942,C0630,Policy exclusions were unclear and the claim was rejected.,Negative
+F0943,C0168,I submitted the required claim documents.,Neutral
+F0944,C1265,Premium is reasonable and the benefits are excellent.,Positive
+F0945,C0690,My claim was delayed and customer support did not respond.,Negative
+F0946,C1030,My claim was delayed and customer support did not respond.,Negative
+F0947,C1198,Reimbursement took too long and communication was poor.,Negative
+F0948,C0661,Customer service answered my questions clearly.,Positive
+F0949,C0545,Customer service answered my questions clearly.,Positive
+F0950,C1056,The renewal date is next month.,Neutral
+F0951,C1355,Policy exclusions were unclear and the claim was rejected.,Negative
+F0952,C0888,Hospital network information was confusing.,Negative
+F0953,C0942,Policy exclusions were unclear and the claim was rejected.,Negative
+F0954,C1181,Hospital network information was confusing.,Negative
+F0955,C0571,Premium increased and the service was disappointing.,Negative
+F0956,C0359,The renewal date is next month.,Neutral
+F0957,C0946,Premium is reasonable and the benefits are excellent.,Positive
+F0958,C0511,Premium is reasonable and the benefits are excellent.,Positive
+F0959,C0617,Reimbursement took too long and communication was poor.,Negative
+F0960,C1012,Reimbursement took too long and communication was poor.,Negative
+F0961,C1128,Premium increased and the service was disappointing.,Negative
+F0962,C0498,Claim was settled quickly and the support team was helpful.,Positive
+F0963,C1140,Premium is reasonable and the benefits are excellent.,Positive
+F0964,C0913,Cashless hospital service was smooth and convenient.,Positive
+F0965,C0614,Policy exclusions were unclear and the claim was rejected.,Negative
+F0966,C0307,I received my policy document by email.,Neutral
+F0967,C0378,Premium increased and the service was disappointing.,Negative
+F0968,C0245,Very satisfied with the policy coverage and easy claim process.,Positive
+F0969,C0257,My claim was delayed and customer support did not respond.,Negative
+F0970,C0042,The policy includes hospital coverage details.,Neutral
+F0971,C0774,Very satisfied with the policy coverage and easy claim process.,Positive
+F0972,C0935,Cashless hospital service was smooth and convenient.,Positive
+F0973,C0907,My claim was delayed and customer support did not respond.,Negative
+F0974,C0429,Premium increased and the service was disappointing.,Negative
+F0975,C1088,My claim was delayed and customer support did not respond.,Negative
+F0976,C0911,Very satisfied with the policy coverage and easy claim process.,Positive
+F0977,C0774,Hospital network information was confusing.,Negative
+F0978,C0875,Very satisfied with the policy coverage and easy claim process.,Positive
+F0979,C1400,My claim was delayed and customer support did not respond.,Negative
+F0980,C1201,Premium increased and the service was disappointing.,Negative
+F0981,C1196,Customer service answered my questions clearly.,Positive
+F0982,C0365,Customer service answered my questions clearly.,Positive
+F0983,C0912,Customer service answered my questions clearly.,Positive
+F0984,C0977,My claim was delayed and customer support did not respond.,Negative
+F0985,C0365,Hospital network information was confusing.,Negative
+F0986,C1107,The renewal date is next month.,Neutral
+F0987,C1226,Very satisfied with the policy coverage and easy claim process.,Positive
+F0988,C0286,I contacted the branch to update my address.,Neutral
+F0989,C0834,Cashless hospital service was smooth and convenient.,Positive
+F0990,C0896,Customer service answered my questions clearly.,Positive
+F0991,C1088,Hospital network information was confusing.,Negative
+F0992,C0696,Policy exclusions were unclear and the claim was rejected.,Negative
+F0993,C0801,Premium increased and the service was disappointing.,Negative
+F0994,C0599,Premium is reasonable and the benefits are excellent.,Positive
+F0995,C1032,Reimbursement took too long and communication was poor.,Negative
+F0996,C0098,Policy exclusions were unclear and the claim was rejected.,Negative
+F0997,C0198,Policy exclusions were unclear and the claim was rejected.,Negative
+F0998,C0669,Customer service answered my questions clearly.,Positive
+F0999,C0573,Claim was settled quickly and the support team was helpful.,Positive
+F1000,C0196,I received my policy document by email.,Neutral
